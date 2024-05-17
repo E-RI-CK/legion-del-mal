@@ -24,4 +24,7 @@
 24. Zeta
 25. Exis
 26. Ene
+27. A
+28. Be
+29. Ce
 
