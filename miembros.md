@@ -21,4 +21,6 @@
 21. Giganta
 22. Deadshot
 23. Nick Fury
+24. Zeta
+25. Exis
 
